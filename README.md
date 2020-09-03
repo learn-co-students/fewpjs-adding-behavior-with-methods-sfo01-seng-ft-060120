@@ -1,5 +1,4 @@
 # Adding Behavior With Methods
-
 ## Learning Goals
 
 - Write methods that use instance data and parameter data
